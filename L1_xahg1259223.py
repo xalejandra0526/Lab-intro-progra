@@ -12,4 +12,5 @@ print("Ingrese su nombre")
 Nombre= input()
 print("Hola mundo")
 print("soy " + Nombre)
-
+print("Hola mundo" , end=" ")
+print("soy " + Nombre , end="")
